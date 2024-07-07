@@ -1,6 +1,6 @@
 ---
 title: "CLT_WUP"
-author: "Addler Fller"
+author: "Addler Fuller"
 output: 
   html_document:
     number_sections: true
